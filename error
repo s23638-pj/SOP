@@ -1,0 +1,3 @@
+ls: błędna opcja -- 'y'
+Napisz „ls --help” dla uzyskania informacji.
+cat: /etc/shadow: Brak dostępu
